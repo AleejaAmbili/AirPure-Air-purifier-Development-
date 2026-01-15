@@ -1,4 +1,4 @@
-AQI-Driven Air Purifier Product Strategy (India)
+AirPure Innovations – Data-Driven Market Fit & Strategic Launch for Air Purifiers
 
 
 📌 Project Overview
