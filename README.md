@@ -1,4 +1,6 @@
 AQI-Driven Air Purifier Product Strategy (India)
+
+
 📌 Project Overview
 
 This project analyzes Air Quality Index (AQI), health, vehicle, and population data (2022–2025) to design a data-backed air purifier product portfolio and market launch strategy for India.
